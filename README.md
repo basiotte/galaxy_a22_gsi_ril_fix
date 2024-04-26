@@ -1,6 +1,4 @@
 # Galaxy A22 GSI RIL fix.
 
-Fixes RIL in GSIs for A22's with U7 binary or higher
-Uses A225FXXU6DWE3 base.
-DO NOT TRY ON A225M as they use different RIL bands.
-Report any issues here.
+Fixes RIL in GSIs for A225F with U7 or higher binary, S6 binary for A225M
+Download the latest zip, flash it in magisk as module and you're done
