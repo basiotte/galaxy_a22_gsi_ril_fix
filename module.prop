@@ -1,6 +1,7 @@
 id=ril-fix
-name=A225F GSI RIL fix
-version=v1.0
+name=A225M GSI RIL fix
+version=v1.1
 versionCode=1
-author=devid7x
-description=Downgrades RIL files to the A225FXXU6DWE3 base. Do not try on the A225M
+author=devid7x 
+update=basiotte
+description=Downgrades RIL files to the A225M base. Do not try on the A225F
